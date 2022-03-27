@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 4acfe29a-6d77-d741-c878-fc255ec71209
 resourcetype: Document
 title: cv_notes.pdf
 uid: aec39c53-efb9-6f46-7b7a-7d0a94d1e2bd

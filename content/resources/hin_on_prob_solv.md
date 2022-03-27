@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 4acfe29a-6d77-d741-c878-fc255ec71209
 resourcetype: Document
 title: hin_on_prob_solv.pdf
 uid: af0c8f88-693a-8009-8ed1-cb196dc2c60f
