@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Readings
 uid: 4acfe29a-6d77-d741-c878-fc255ec71209
 ---
@@ -13,9 +14,9 @@ Young, Donald F., Bruce R. Munson, and Theodore H. Okiishi. _A Brief Introductio
 
 Supplemental texts for the course are:
 
-Control Volume Notes ([PDF]({{< baseurl >}}/resources/cv_notes))
+Control Volume Notes ({{< resource_link aec39c53-efb9-6f46-7b7a-7d0a94d1e2bd "PDF" >}})
 
-A Few Hints on Problem Solving (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hin_on_prob_solv))
+A Few Hints on Problem Solving (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link af0c8f88-693a-8009-8ed1-cb196dc2c60f "PDF" >}})
 
 Readings assignments in the main textbook are shown in this table.
 
