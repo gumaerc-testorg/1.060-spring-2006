@@ -6,6 +6,7 @@ file: /courses/1-060-engineering-mechanics-ii-spring-2006/1d00345c6cd110e7dd6185
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: recitation7_prob.pdf
 uid: 1d00345c-6cd1-10e7-dd61-852cacece0f5
 ---
 This resource provides a couple of recitation problems on topic: dynamic response of a floating body.
-

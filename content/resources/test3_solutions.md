@@ -6,6 +6,7 @@ file: /courses/1-060-engineering-mechanics-ii-spring-2006/9232cc5820582b98ef8ab1
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: test3_solutions.pdf
 uid: 9232cc58-2058-2b98-ef8a-b14afd8ce429
 ---
 This resource contains six questions related to one problem on engineering mechanics II, along with the solutions.
-

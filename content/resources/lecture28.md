@@ -6,6 +6,7 @@ file: /courses/1-060-engineering-mechanics-ii-spring-2006/71a7ff9a25a6de1f355477
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture28.pdf
 uid: 71a7ff9a-25a6-de1f-3554-777e51c8d6d1
 ---
 This resource provides information about the unassisted hydraulic jump in rectangular channel, and the head loss across the hydraulic jump.
-

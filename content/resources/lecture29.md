@@ -6,6 +6,7 @@ file: /courses/1-060-engineering-mechanics-ii-spring-2006/b6688d158adfcda3e2e12f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture29.pdf
 uid: b6688d15-8adf-cda3-e2e1-2fc0299135d3
 ---
 This resource provides information on gradually varied open channel flow, uniform non-varying flow.
-

@@ -6,6 +6,7 @@ file: /courses/1-060-engineering-mechanics-ii-spring-2006/7c3f510d33597667ad6a1d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture23.pdf
 uid: 7c3f510d-3359-7667-ad6a-1d1048c620b9
 ---
 This resource provides information on the topic: open channel flow or free surface flow, and uniform steady flow.
-

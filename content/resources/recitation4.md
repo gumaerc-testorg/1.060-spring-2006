@@ -6,6 +6,7 @@ file: /courses/1-060-engineering-mechanics-ii-spring-2006/1588d18d28aeadc1a98d11
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: recitation4.pdf
 uid: 1588d18d-28ae-adc1-a98d-11dca9f95b40
 ---
 This resource provides information on conservation of volume, estimate of outflow velocity, along with some derivations.
-

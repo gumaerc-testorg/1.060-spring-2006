@@ -6,6 +6,7 @@ file: /courses/1-060-engineering-mechanics-ii-spring-2006/a7991ea2e31fe5d509ab4a
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: recitation10.pdf
 uid: a7991ea2-e31f-e5d5-09ab-4ae467d17f97
 ---
 This resource provides a number problems for the last recitation, along with their solutions.
-

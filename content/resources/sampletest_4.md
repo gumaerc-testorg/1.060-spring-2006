@@ -6,6 +6,7 @@ file: /courses/1-060-engineering-mechanics-ii-spring-2006/7eed8ae31d2a19290373af
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: sampletest_4.pdf
 uid: 7eed8ae3-1d2a-1929-0373-aff1b43315ea
 ---
 This resource contains a number of problems and cheat sheets on fluid mechanics.
-

@@ -6,6 +6,7 @@ file: /courses/1-060-engineering-mechanics-ii-spring-2006/4f5cad59952ac0d31b3cbd
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: sampletest_1.pdf
 uid: 4f5cad59-952a-c0d3-1b3c-bd007e45b94b
 ---
 This resource provides a number of problems taken as sample for this course from the final examination held in 2001.
-

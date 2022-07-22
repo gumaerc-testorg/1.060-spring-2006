@@ -6,6 +6,7 @@ file: /courses/1-060-engineering-mechanics-ii-spring-2006/c700780b35323a7a8a56d0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture26.pdf
 uid: c700780b-3532-3a7a-8a56-d059b1d808ed
 ---
 This resource provides information on the specific head-depth diagram, and critical flow peculiarity.
-

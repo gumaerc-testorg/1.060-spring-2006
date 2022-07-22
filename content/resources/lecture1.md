@@ -6,6 +6,7 @@ file: /courses/1-060-engineering-mechanics-ii-spring-2006/6429bd7937c3799b82375b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture1.pdf
 uid: 6429bd79-37c3-799b-8237-5ba1d9031821
 ---
 This resource provides information on the common feature of solid mechanics and fluid mechanics.
-
