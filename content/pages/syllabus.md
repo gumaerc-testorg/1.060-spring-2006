@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information about the course logistics, lectures,
+  recitations, text, homework, exams, and grading information.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: eb5c4482-21e4-2f4a-f709-0bd4e9a13e35
 ---
@@ -15,7 +19,7 @@ This subject provides an introduction to fluid mechanics. You will be introduced
 
 ### Lectures
 
-Lecture notes will be distributed for each lecture, usually covering "theoretical" aspects (derivations, etc.) in more detail or in a different manner than done during class or in text. The subject content is defined by the material presented in [lecture notes]({{< baseurl >}}/pages/lecture-notes), [recitations]({{< baseurl >}}/pages/recitations), and [readings]({{< baseurl >}}/pages/readings), so regular attendance is advisable.
+Lecture notes will be distributed for each lecture, usually covering "theoretical" aspects (derivations, etc.) in more detail or in a different manner than done during class or in text. The subject content is defined by the material presented in {{% resource_link 6439f51f-7325-c3ea-129c-1205b94ea80d "lecture notes" %}}, {{% resource_link ee18de12-ed45-b384-7a83-72aa73f66dd1 "recitations" %}}, and {{% resource_link 4acfe29a-6d77-d741-c878-fc255ec71209 "readings" %}}, so regular attendance is advisable.
 
 ### Recitations
 
@@ -27,7 +31,7 @@ The following book will be used as the text for the subject, supplemented by lec
 
 Young, Donald F., Bruce R. Munson, and Theodore H. Okiishi. _A Brief Introduction to Fluid Mechanics_. 3rd ed. New York, NY: Wiley, 2003. ISBN: 0471457574.
 
-Reading assignments are given in the [readings]({{< baseurl >}}/pages/readings) section.
+Reading assignments are given in the {{% resource_link 4acfe29a-6d77-d741-c878-fc255ec71209 "readings" %}} section.
 
 ### Homework
 

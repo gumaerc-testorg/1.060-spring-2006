@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a set of recitation problems and solutions for
+  selected problems.
+learning_resource_types:
+- Recitations
+ocw_type: CourseSection
 title: Recitations
 uid: ee18de12-ed45-b384-7a83-72aa73f66dd1
 ---
@@ -33,7 +38,7 @@ R1
 Review of Hydrostatics and Dimensional Analysis
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/recitation1))
+({{% resource_link 3b6bd7c7-63c7-278a-b5d9-878c27a14831 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -48,7 +53,7 @@ R2
 Stability of Floating Bodies
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6 MB]({{< baseurl >}}/resources/recitation2))
+({{% resource_link a872567d-4823-e040-173d-f0032ad35436 "PDF - 1.6 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -63,7 +68,7 @@ R3
 Flownet and Streamline Construction
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0 MB]({{< baseurl >}}/resources/recitation3))
+({{% resource_link 2c100b3b-a605-a3ec-1e48-cc4cc58c5045 "PDF - 2.0 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -78,7 +83,7 @@ R4
 Bernoulli Experiment
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8 MB]({{< baseurl >}}/resources/recitation4))
+({{% resource_link 1588d18d-28ae-adc1-a98d-11dca9f95b40 "PDF - 1.8 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -96,7 +101,7 @@ Application of Conservation Principles for Finite Control
  
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/recitation5))
+({{% resource_link 2b4ac3d0-74f0-3a75-0b6a-61ff17d09501 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +116,7 @@ Pipe Flow Demonstration and Analysis
  
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3 MB]({{< baseurl >}}/resources/recitation6))
+({{% resource_link fb9c9834-f8e8-a5f8-c29f-f52b02333a83 "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,10 +128,10 @@ R7
 Dynamic Response of a Floating Body
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3 MB]({{< baseurl >}}/resources/recitation7))
+({{% resource_link 81dc82b1-5544-11f5-4fb5-6ca9cc6c2e98 "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/recitation7_prob))
+({{% resource_link 1d00345c-6cd1-10e7-dd61-852cacece0f5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,10 +143,10 @@ R8
 Open Channel Flow Computations
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5 MB]({{< baseurl >}}/resources/recitation8))
+({{% resource_link b56ceea0-db42-93a9-5fa0-34155c4f1141 "PDF - 1.5 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/recitation8_prob))
+({{% resource_link b3694e9d-435e-4e03-eae8-5c0b8f3488ec "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +161,7 @@ Application of Energy and Momentum Principles in Open Channel Flows
  
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/recitation9))
+({{% resource_link bdb1986a-b05f-9e73-7f04-f2f8bcb3f06d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +176,7 @@ Determination of Gradually Varied Flow Profiles
  
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4 MB]({{< baseurl >}}/resources/recitation10))
+({{% resource_link a7991ea2-e31f-e5d5-09ab-4ae467d17f97 "PDF - 1.4 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
