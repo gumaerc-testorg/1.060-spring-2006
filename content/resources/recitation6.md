@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides a set of problems along with their solutions,
   for the sixth recitation session.
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/fb9c9834f8e8a5f8c29ff52b02333a83_recitation6.pdf
+file_size: 1391813
 file_type: application/pdf
 learning_resource_types:
 - Recitations

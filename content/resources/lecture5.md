@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information on mass and volume conservation, nature
   of conservation laws.
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/d05497d6b724d6cf8bd95b7c3c3ee4e2_lecture5.pdf
+file_size: 431217
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

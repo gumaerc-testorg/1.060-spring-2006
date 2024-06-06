@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides information on turbines, and total energy conservation.
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/3859122abb0d13440138b3751dd000a0_lecture19.pdf
+file_size: 612120
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

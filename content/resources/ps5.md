@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides six questions as part of the fifth problem set
   on engineering mechanics II.
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/0d7885c07c8a0417736096e6338e2511_ps5.pdf
+file_size: 192587
 file_type: application/pdf
 learning_resource_types:
 - Assignments
