@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information on uniform flow computation, and energy
   and hydraulic grade lines.
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/1acddf1865783b082af137cdae04e648_lecture24.pdf
+file_size: 836845
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

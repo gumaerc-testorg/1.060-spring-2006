@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides solutions of the sixth roblem set on engineering
   mechanics II.
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/ed26020b03e25f3b7d0fb813e9b03212_ps6_solutions.pdf
+file_size: 1809001
 file_type: application/pdf
 learning_resource_types:
 - Assignments
