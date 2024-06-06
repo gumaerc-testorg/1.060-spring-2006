@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource provides information on recitation topic: review of hydrostatics.
   It also provides information on pressure variation and a review of dimensional analysis.'
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/3b6bd7c763c7278ab5d9878c27a14831_recitation1.pdf
+file_size: 1012772
 file_type: application/pdf
 learning_resource_types:
 - Recitations

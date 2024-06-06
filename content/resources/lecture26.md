@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information on the specific head-depth diagram,
   and critical flow peculiarity.
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/c700780b35323a7a8a56d059b1d808ed_lecture26.pdf
+file_size: 1042745
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

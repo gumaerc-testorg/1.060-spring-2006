@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides the solutions for problem set 1 on engineering
   mechanics II.
 file: /courses/1-060-engineering-mechanics-ii-spring-2006/5288e468f1ffc727d83bbb8546b7a63c_ps1_solutions.pdf
+file_size: 723384
 file_type: application/pdf
 learning_resource_types:
 - Assignments
