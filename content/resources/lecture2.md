@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on the continuum hypothesis, compressibility
   of fluids an fluid velocity.
-file: /courses/1-060-engineering-mechanics-ii-spring-2006/a41106137cd5e1792e8a4d52c1b0bddd_lecture2.pdf
+file: /ol-ocw-studio-app/courses/1-060-engineering-mechanics-ii-spring-2006/a41106137cd5e1792e8a4d52c1b0bddd_lecture2.pdf
 file_size: 1050394
 file_type: application/pdf
 learning_resource_types:

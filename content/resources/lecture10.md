@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information and derivations on conservation of
   momentum for finite control volumes, and thrust.
-file: /courses/1-060-engineering-mechanics-ii-spring-2006/3a0d8d3f4f23ad9c15a5db3ec951b8a0_lecture10.pdf
+file: /ol-ocw-studio-app/courses/1-060-engineering-mechanics-ii-spring-2006/3a0d8d3f4f23ad9c15a5db3ec951b8a0_lecture10.pdf
 file_size: 513748
 file_type: application/pdf
 learning_resource_types:

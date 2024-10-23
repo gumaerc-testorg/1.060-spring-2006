@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides a set of recitation problems on tainter gate and
   triangular channel cross-section problem, along with the solutions.
-file: /courses/1-060-engineering-mechanics-ii-spring-2006/bdb1986ab05f9e737f04f2f8bcb3f06d_recitation9.pdf
+file: /ol-ocw-studio-app/courses/1-060-engineering-mechanics-ii-spring-2006/bdb1986ab05f9e737f04f2f8bcb3f06d_recitation9.pdf
 file_size: 957091
 file_type: application/pdf
 learning_resource_types:
