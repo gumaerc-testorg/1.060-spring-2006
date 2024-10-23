@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides a derivation of the Bernoulli equation, and pressure
   force.
-file: /courses/1-060-engineering-mechanics-ii-spring-2006/9c06f3cd2a34e31f3c77b53f630d726b_lecture7.pdf
+file: /ol-ocw-studio-app/courses/1-060-engineering-mechanics-ii-spring-2006/9c06f3cd2a34e31f3c77b53f630d726b_lecture7.pdf
 file_size: 929090
 file_type: application/pdf
 learning_resource_types:
