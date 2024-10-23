@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides solutions to the seventh problem set on engineering
   mechanics II.
-file: /courses/1-060-engineering-mechanics-ii-spring-2006/661e0d81f68574486c3ecf066a2f4611_ps7_solutions.pdf
+file: /ol-ocw-studio-app/courses/1-060-engineering-mechanics-ii-spring-2006/661e0d81f68574486c3ecf066a2f4611_ps7_solutions.pdf
 file_size: 755350
 file_type: application/pdf
 learning_resource_types:
