@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides a number of problems taken as sample for this
   course from the final examination held in 2001.
-file: /ol-ocw-studio-app/courses/1-060-engineering-mechanics-ii-spring-2006/4f5cad59952ac0d31b3cbd007e45b94b_sampletest_1.pdf
+file: /courses/1-060-engineering-mechanics-ii-spring-2006/4f5cad59952ac0d31b3cbd007e45b94b_sampletest_1.pdf
 file_size: 852672
 file_type: application/pdf
 learning_resource_types:

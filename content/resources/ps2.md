@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains six questions as part of the second problem set
   for engineering mechnics II.
-file: /ol-ocw-studio-app/courses/1-060-engineering-mechanics-ii-spring-2006/214edd398a166e8e8a2d04212b68a37d_ps2.pdf
+file: /courses/1-060-engineering-mechanics-ii-spring-2006/214edd398a166e8e8a2d04212b68a37d_ps2.pdf
 file_size: 330857
 file_type: application/pdf
 learning_resource_types:

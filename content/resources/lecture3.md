@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on hydrostatics, hydrostatics pressure
   distribution, and hydrostatic force on a plane area.
-file: /ol-ocw-studio-app/courses/1-060-engineering-mechanics-ii-spring-2006/2845cea3d48ce6ffdc571519351755de_lecture3.pdf
+file: /courses/1-060-engineering-mechanics-ii-spring-2006/2845cea3d48ce6ffdc571519351755de_lecture3.pdf
 file_size: 1178937
 file_type: application/pdf
 learning_resource_types:
