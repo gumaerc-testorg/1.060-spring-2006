@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides solutions to the eighth problem set on engineering
   mechanics II.
-file: /ol-ocw-studio-app/courses/1-060-engineering-mechanics-ii-spring-2006/149b78e4a01a939bab5748614fefc87c_ps8_solutions.pdf
+file: /courses/1-060-engineering-mechanics-ii-spring-2006/149b78e4a01a939bab5748614fefc87c_ps8_solutions.pdf
 file_size: 1716815
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides additional information on floating body stability.
-file: /ol-ocw-studio-app/courses/1-060-engineering-mechanics-ii-spring-2006/81dc82b1554411f54fb56ca9cc6c2e98_recitation7.pdf
+file: /courses/1-060-engineering-mechanics-ii-spring-2006/81dc82b1554411f54fb56ca9cc6c2e98_recitation7.pdf
 file_size: 1323365
 file_type: application/pdf
 learning_resource_types:
