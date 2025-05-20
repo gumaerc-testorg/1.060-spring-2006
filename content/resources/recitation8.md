@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on continuity equation, momentum equation,
   and linearization technique.
-file: /ol-ocw-studio-app/courses/1-060-engineering-mechanics-ii-spring-2006/b56ceea0db4293a95fa034155c4f1141_recitation8.pdf
+file: /courses/1-060-engineering-mechanics-ii-spring-2006/b56ceea0db4293a95fa034155c4f1141_recitation8.pdf
 file_size: 1613113
 file_type: application/pdf
 learning_resource_types:

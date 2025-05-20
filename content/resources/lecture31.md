@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides examples of the gradually varied flow profiles.
-file: /ol-ocw-studio-app/courses/1-060-engineering-mechanics-ii-spring-2006/be965a3050623c4e29e2af0a0f629d1d_lecture31.pdf
+file: /courses/1-060-engineering-mechanics-ii-spring-2006/be965a3050623c4e29e2af0a0f629d1d_lecture31.pdf
 file_size: 1363455
 file_type: application/pdf
 learning_resource_types:

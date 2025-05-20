@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on lift forces and lift coefficient,
   wind direction, and ideal wind turbines.
-file: /ol-ocw-studio-app/courses/1-060-engineering-mechanics-ii-spring-2006/66192149d3cce82c6e6104437e0f49eb_lecture21.pdf
+file: /courses/1-060-engineering-mechanics-ii-spring-2006/66192149d3cce82c6e6104437e0f49eb_lecture21.pdf
 file_size: 1485250
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides a sample test on engineering mechanics II, along
   with the solutions.
-file: /ol-ocw-studio-app/courses/1-060-engineering-mechanics-ii-spring-2006/e2d2017bb2216603073df33ecfdbfaf1_test2_solutions.pdf
+file: /courses/1-060-engineering-mechanics-ii-spring-2006/e2d2017bb2216603073df33ecfdbfaf1_test2_solutions.pdf
 file_size: 1253063
 file_type: application/pdf
 learning_resource_types:

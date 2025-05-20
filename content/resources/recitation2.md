@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on buoyancy force, centre of buoyancy,
   and stability condition.
-file: /ol-ocw-studio-app/courses/1-060-engineering-mechanics-ii-spring-2006/a872567d4823e040173df0032ad35436_recitation2.pdf
+file: /courses/1-060-engineering-mechanics-ii-spring-2006/a872567d4823e040173df0032ad35436_recitation2.pdf
 file_size: 1642802
 file_type: application/pdf
 learning_resource_types:
