@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides a set of problem along with their solutions for
   the fifth recitation session.
-file: /courses/1-060-engineering-mechanics-ii-spring-2006/2b4ac3d074f03a750b6a61ff17d09501_recitation5.pdf
+file: /ol-ocw-studio-app/courses/1-060-engineering-mechanics-ii-spring-2006/2b4ac3d074f03a750b6a61ff17d09501_recitation5.pdf
 file_size: 776176
 file_type: application/pdf
 learning_resource_types:

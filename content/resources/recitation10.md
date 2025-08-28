@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides a number problems for the last recitation, along
   with their solutions.
-file: /courses/1-060-engineering-mechanics-ii-spring-2006/a7991ea2e31fe5d509ab4ae467d17f97_recitation10.pdf
+file: /ol-ocw-studio-app/courses/1-060-engineering-mechanics-ii-spring-2006/a7991ea2e31fe5d509ab4ae467d17f97_recitation10.pdf
 file_size: 1510976
 file_type: application/pdf
 learning_resource_types:
