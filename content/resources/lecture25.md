@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on the energy (bernoulli) principle,
   short transition of converging flow, specific head-depth diagram.
-file: /courses/1-060-engineering-mechanics-ii-spring-2006/aeeab557646cad0f2720e6634d4d3ae1_lecture25.pdf
+file: /ol-ocw-studio-app/courses/1-060-engineering-mechanics-ii-spring-2006/aeeab557646cad0f2720e6634d4d3ae1_lecture25.pdf
 file_size: 816488
 file_type: application/pdf
 learning_resource_types:

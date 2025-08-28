@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides six questions as part of the ninth problem set
   on engineering mechanics II.
-file: /courses/1-060-engineering-mechanics-ii-spring-2006/797573faf1fa619e9f3f0bdee301d2b5_ps9.pdf
+file: /ol-ocw-studio-app/courses/1-060-engineering-mechanics-ii-spring-2006/797573faf1fa619e9f3f0bdee301d2b5_ps9.pdf
 file_size: 149972
 file_type: application/pdf
 learning_resource_types:
